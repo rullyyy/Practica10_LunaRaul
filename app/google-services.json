@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710515457274",
+    "project_id": "fir-login-9867d",
+    "storage_bucket": "fir-login-9867d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710515457274:android:039b989130334949969d43",
+        "android_client_info": {
+          "package_name": "luna.raul.firebaselogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_nfCi7XG5Eg0vLKb8vSA2pCEM5D8cwlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

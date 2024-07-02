@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FirebaseLogin</string>
+    <string name="title_active_login">Firebase Login</string>
+    <string name="password">Contraseña</string>
+    <string name="new_password">Nueva contraseña</string>
+    <string name="current_password">Contraseña actual</string>
+    <string name="name">Nombre completo</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="title_confirm_password">Confirma la contraseña</string>
+    <string name="signUp">Sign Up</string>
+    <string name="text_signup">¿No tienes cuenta?</string>
+    <string name="link_signup">Sign up</string>
+    <string name="alt_TODO"></string>
+    <string name="user_email">userdefault@gmail.com</string>
+    <string name="user_name">User Default</string>
+    <string name="update_profile">Guardar</string>
+    <string name="delete_account">Eliminar cuenta</string>
+    <string name="change_password">Cambiar contraseña</string>
+    <string name="forget_password">¿Olvidaste tu contraseña?</string>
+    <string name="title_check_email">Verificación de Email</string>
+    <string name="subtitle_check_email">Para completar su registro. ¡Por favor! verifica su correo y da clic en continuar.</string>
+    <string name="continue_check_email">Continuar</string>
+    <string name="title_account_recovery">Recuperación de la cuenta</string>
+    <string name="subtitle_account_recovery">Ingresa tu email para que se te pueda enviar un correo con las instrucciones.</string>
+    <string name="recovery_account">Enviar</string>
+    <string name="title_update_password">Cambio de contraseña</string>
+    <string name="subtitle_update_password">Por motivos de seguridad para cambiar tu contraseña, primero ingresa tu contraseña actual.</string>
+    <string name="title_delete_account">Eliminar cuenta</string>
+    <string name="subtitle_delete_account">Por motivos de seguridad para eliminar tu cuenta por completo, primero verifica tu contraseña.</string>
+</resources>
